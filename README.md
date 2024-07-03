@@ -38,11 +38,11 @@ Desde Postman se pueden enviar la información para guardar de la siguiente mane
 ![](https://raw.githubusercontent.com/sgcm14/java-mongoDB/main/src/docs/Captura2.PNG)
 > Pantalla de postman
 
-Desde 
+Desde localhost del aplicativo:
 ![](https://raw.githubusercontent.com/sgcm14/java-mongoDB/main/src/docs/Captura3.PNG)
 > Pantalla de consumo de API
 
-Desde Postman se pueden enviar la información para guardar de la siguiente manera:
+Desde localhost del aplicativo:
 ![](https://raw.githubusercontent.com/sgcm14/java-mongoDB/main/src/docs/Captura4.PNG)
 > Pantalla de de consumo de API
 
